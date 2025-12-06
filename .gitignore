@@ -1,2 +1,3 @@
-day*/in.txt
-day*/test*.txt
+**/in
+**/ex1
+**/ex2
